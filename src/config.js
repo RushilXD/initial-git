@@ -1,2 +1,2 @@
-console.log("Version 1.0.1");
-console.log("name: initial-git");
+console.log("Version 1.1.0");
+console.log("name: init-git");
